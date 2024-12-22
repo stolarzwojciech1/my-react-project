@@ -1,0 +1,19 @@
+import {FaStar} from "react-icons/fa";
+
+ const Star = function() { 
+
+return[  
+]
+ } 
+       export   default Star;
+                                       
+       export default function StarRating(){
+
+        return [
+        <FaStar color ="red"/>,
+        <FaStar color ="red"/>,
+        <FaStar color ="red"/>,
+        <FaStar color ="red"/>,
+        <FaStar color ="red"/>,
+        ];}
+      
